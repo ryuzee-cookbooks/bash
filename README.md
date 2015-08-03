@@ -37,6 +37,6 @@ Contributing
 
 License and Authors
 -------------------
-Authors: Ryutaro YOSHIBA
+Authors: Ryutaro YOSHIBA (ryuzee at gmail.com)
 
 License: MIT License
